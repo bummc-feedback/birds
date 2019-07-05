@@ -1,0 +1,97 @@
+Report for Institution Code BUMMC, Resource bummc_birds
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 146
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 19
+	Country: Netherlands ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-27 ; Times: 2
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-11 ; Times: 13
+	Date: 2019-06-10 ; Times: 3
+	Date: 2019-06-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Falcipennis specificepithet:canadensis" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Psephotus specificepithet:haematonotus" ; Times: 1
+	Query: "genus:Toxostoma specificepithet:longirostre" ; Times: 1
+	Query: "genus:Cygnus specificepithet:atratus" ; Times: 1
+	Query: "genus:Nyctanassa specificepithet:violacea" ; Times: 1
+	Query: "genus:Anhinga specificepithet:anhinga" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "mayborn" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "genus:Dacelo specificepithet:novaeguineae" ; Times: 1
+	Query: "genus:Caprimulgus specificepithet:vociferus" ; Times: 1
+	Query: "genus:Forpus specificepithet:passerinus" ; Times: 1
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 1
+	Query: "308 chordeiles" ; Times: 1
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 1
+	Query: "genus:Dendrocygna specificepithet:autumnalis" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "genus:Parabuteo specificepithet:unicinctus" ; Times: 1
+	Query: "genus:Psittacula specificepithet:krameri" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; institutioncode:BUMMC" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1182 download events in this period)
+Total number of records downloaded: 230
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-06 ; Times: 4
+	Date: 2019-06-07 ; Times: 3
+	Date: 2019-06-04 ; Times: 12
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-11 ; Times: 2
+	Date: 2019-06-03 ; Times: 5
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sage grouse" ; Times: 1
+	Query: "Cedar Waxwing" ; Times: 1
+	Query: "cathartes aura" ; Times: 2
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "snowy owl" ; Times: 1
+	Query: "elf owl" ; Times: 1
+	Query: "bald eagle" ; Times: 7
+	Query: "Bald Eagle" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Barn Owl" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "ruby throated hummingbird" ; Times: 2
+	Query: "spotted owl" ; Times: 1
+	Query: "Yellow bellied sapsucker" ; Times: 1
+	Query: "White crowned Sparrow" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina" ; Times: 1
+	Query: "bald eagle north america" ; Times: 1
+	Query: "ruby-throated hummingbird" ; Times: 2
+	Query: "golden eagle" ; Times: 1
+
+
+End of report.
