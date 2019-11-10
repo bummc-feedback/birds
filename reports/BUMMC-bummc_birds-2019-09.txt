@@ -1,0 +1,78 @@
+Report for Institution Code BUMMC, Resource bummc_birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 103
+Number of records retrieved in searches: 3159
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 98
+	Country: United Kingdom ; Times: 3
+	Country: France ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-11 ; Times: 23
+	Date: 2019-09-12 ; Times: 4
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-03 ; Times: 4
+	Date: 2019-09-06 ; Times: 57
+	Date: 2019-09-04 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphelocoma coerulescens" ; Times: 12
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 7
+	Query: "palumbus Columba" ; Times: 3
+	Query: "Mayborn Museum" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 15
+	Query: "elf" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 10
+	Query: "gbifdatasetid:4c97f57e-69d6-40f8-a310-2a716a02f911" ; Times: 23
+	Query: "ptarmigan newfoundland" ; Times: 1
+	Query: "mayborn museum" ; Times: 2
+	Query: "mayborn museum birds" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 27
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1073 download events in this period)
+Total number of records downloaded: 81
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 19
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lagopus stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo)" ; Times: 11
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT Buteo)" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 3
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "ptarmigan newfoundland" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (NOT Buteo)" ; Times: 3
+	Query: "lagopus newfoundland vntype:specimen" ; Times: 1
+	Query: "pitta" ; Times: 1
+
+
+End of report.
