@@ -1,0 +1,87 @@
+Report for Institution Code BUMMC, Resource bummc_birds
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 50
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 2
+	Date: 2020-05-27 ; Times: 3
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 3
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-15 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Texas Anser albifrons" ; Times: 1
+	Query: "BUMMC 1854" ; Times: 1
+	Query: "Amazona ochrocephala stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "Caprimulgus vociferus Texas" ; Times: 1
+	Query: "American Kestrel year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Texas Accipiter striatus" ; Times: 1
+	Query: "Birds Texas Caprimulgus vociferus Whip-poor-will" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anas sex:female" ; Times: 1
+	Query: "Texas Accipiter cooperii" ; Times: 2
+	Query: "BUMMC 1156" ; Times: 1
+	Query: "BUMMC 1155" ; Times: 1
+	Query: "BUMMC 1154" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anas sex:male" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "Texas Limnothlypis swainsonii" ; Times: 1
+	Query: "Haliaeetus leucocephalus Texas" ; Times: 1
+	Query: "specificepithet:niger genus:Chlidonias class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+	Query: "Amazona ochrocephala specificepithet:ochrocephala genus:Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "specificepithet:striatus genus:accipiter stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:CAYANA genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1106 download events in this period)
+Total number of records downloaded: 2318
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-06 ; Times: 3
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "Amazona ochrocephala specificepithet:ochrocephala genus:Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "american kestrel year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "Haliaeetus leucocephalus Texas" ; Times: 1
+
+
+End of report.
