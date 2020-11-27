@@ -1,0 +1,141 @@
+Report for Institution Code BUMMC, Resource bummc_birds
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 188
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 89
+	Country: Unknown ; Times: 5
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 23
+	Country: India ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-12 ; Times: 2
+	Date: 2020-04-11 ; Times: 5
+	Date: 2020-04-17 ; Times: 5
+	Date: 2020-04-16 ; Times: 4
+	Date: 2020-04-14 ; Times: 6
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-07 ; Times: 38
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-03 ; Times: 17
+	Date: 2020-04-21 ; Times: 28
+	Date: 2020-04-29 ; Times: 11
+	Date: 2020-04-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Zonotrichia atricapilla Texas" ; Times: 1
+	Query: "Bubo scandiacus sex:female" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "Great Crested Flycatcher Texas" ; Times: 1
+	Query: "Ixobrychus exilis Texas" ; Times: 2
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "Calidris fuscicollis Texas" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyaneus genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "Cygnus olor" ; Times: 10
+	Query: "Nyctanassa violacea Texas" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 9
+	Query: "elf" ; Times: 3
+	Query: "BLACK FRANCOLIN" ; Times: 2
+	Query: "vntype:specimen genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "Rallus aquaticus" ; Times: 3
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "Columba palumbus" ; Times: 3
+	Query: "Phylloscopus sibilatrix" ; Times: 7
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Coturnix japonica" ; Times: 1
+	Query: "Botaurus lentiginosus Texas" ; Times: 1
+	Query: "Delichon urbica" ; Times: 3
+	Query: "Pelecanus occidentalis Texas" ; Times: 1
+	Query: "pavo cristatus" ; Times: 4
+	Query: "Emberiza fucata" ; Times: 8
+	Query: "Emberiza rustica" ; Times: 8
+	Query: "Zonotrichia albicollis Texas" ; Times: 1
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 4
+	Query: "lesser prairie chicken" ; Times: 4
+	Query: "Cyanopica cyanus" ; Times: 8
+	Query: "Amazilia yucatanensis" ; Times: 3
+	Query: "Buteo nitidus" ; Times: 4
+	Query: "Butorides virescens Texas" ; Times: 1
+	Query: "Sternula albifrons" ; Times: 1
+	Query: "Zonotrichia querula Texas" ; Times: 1
+	Query: "Narcissus" ; Times: 1
+	Query: "Sturnella militaris" ; Times: 2
+	Query: "Asio flammeus Texas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1171 download events in this period)
+Total number of records downloaded: 212
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 3
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-27 ; Times: 2
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-29 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Myiarchus crinitus Texas" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "lesser prairie chicken" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Calidris fuscicollis Texas" ; Times: 1
+	Query: "Amazilia yucatanensis Texas" ; Times: 1
+	Query: "Nyctanassa violacea Texas" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "painted bunting vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Botaurus lentiginosus Texas" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Egretta thula Texas" ; Times: 1
+	Query: "Zonotrichia leucophrys Texas" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "Zonotrichia albicollis Texas" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "Plegadis chihi Texas" ; Times: 1
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Ardea herodias Texas" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Pelecanus occidentalis Texas" ; Times: 2
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Asio flammeus Texas" ; Times: 1
+	Query: "Ixobrychus exilis Texas" ; Times: 1
+	Query: "Platalea ajaja Texas" ; Times: 1
+	Query: "Butorides virescens Texas" ; Times: 1
+	Query: "Zonotrichia querula Texas" ; Times: 1
+	Query: "Eudocimus albus Texas" ; Times: 1
+
+
+End of report.
