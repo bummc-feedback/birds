@@ -1,0 +1,79 @@
+Report for Institution Code BUMMC, Resource bummc_birds
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 256
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 3
+	Country: Cuba ; Times: 6
+	Country: Russia ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 2
+	Date: 2020-01-01 ; Times: 4
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-09 ; Times: 7
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:asio genus:megascops institutioncode:BUMMC" ; Times: 3
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:Griepentrog basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Vermivora bachmanii" ; Times: 6
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:prill basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:BUMMC" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter institutioncode:BUMMC" ; Times: 1
+	Query: "h. nichols" ; Times: 2
+	Query: "common poorwill" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:corless basisofrecord:PreservedSpecimen" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1584 download events in this period)
+Total number of records downloaded: 251
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 4
+	Country: Cuba ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "specificepithet:asio genus:megascops institutioncode:BUMMC" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "Mycteria ibis" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+
+
+End of report.
