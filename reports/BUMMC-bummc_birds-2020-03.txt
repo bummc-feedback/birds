@@ -1,0 +1,62 @@
+Report for Institution Code BUMMC, Resource bummc_birds
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 6
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:alauda country:&#34;japan&#34;" ; Times: 3
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (petechia) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:bresilius genus:Ramphocelus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (Dendroica coronata) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 853 download events in this period)
+Total number of records downloaded: 46
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-05 ; Times: 5
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "dickcissel" ; Times: 1
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2005 year &lt;= 2010" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "northern flicker" ; Times: 1
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2010" ; Times: 1
+
+
+End of report.
