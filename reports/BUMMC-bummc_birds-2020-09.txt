@@ -1,0 +1,77 @@
+Report for Institution Code BUMMC, Resource bummc_birds
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes NOT alleni)" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;texas&#34; year &gt;= 1849 year &lt;= 1950" ; Times: 1
+	Query: "genus:Limnothlypis" ; Times: 2
+	Query: "genus:Asio class:Aves year &gt;= 1915 year &lt;= 1915" ; Times: 1
+	Query: "specificepithet:trichas genus:Geothlypis stateprovince:&#34;Texas&#34; year &gt;= 1987 year &lt;= 1989" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 976 download events in this period)
+Total number of records downloaded: 244
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 4
+	Country: Netherlands ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-13 ; Times: 5
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-04 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Phasianidae continent:Africa" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "vntype:specimen genus:Lagopus stateprovince:&#34;Newfoundland&#34; hassex:1" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "genus:Picoides specificepithet:.*" ; Times: 1
+	Query: "APUS apus" ; Times: 1
+	Query: "vntype:specimen order:Galliformes continent:Africa" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 3
+	Query: "order:Galliformes hastissue:1" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "specificepithet:trichas genus:Geothlypis stateprovince:&#34;Texas&#34; year &gt;= 1987 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+
+
+End of report.
